@@ -502,9 +502,9 @@ async function loadPassword() {
 
 window.onload = loadPassword;
 
-//const SERVER = "https://nondigesting-slightly-dayana.ngrok-free.dev";
+const SERVER = "https://nondigesting-slightly-dayana.ngrok-free.dev";
 //const SERVER = https://nondigesting-slightly-dayana.ngrok-free.dev
-const SERVER = "http://10.192.240.170:5000";
+//const SERVER = "http://10.192.240.170:5000";
 //const SERVER = "http://10.81.101.116:5000";
 
 async function login() {
